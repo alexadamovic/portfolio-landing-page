@@ -16,11 +16,8 @@ _This simple webpage will act as the landing page for my programming portfolio a
 
 ## Setup/Installation Requirements
 
-* _clone repository from https://github.com/alexadamovic/portfolio-landing-page_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _clone repository from https://github.com/alexadamovic/portfolio-landing-page to access code_
+* _open BLANKLINK in browser to access live page_
 
 ## Known Bugs
 
