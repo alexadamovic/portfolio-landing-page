@@ -3,20 +3,32 @@
 h1 {
   font-family: 'monoton';
   font-size: 5em;
+  color: rgb(219, 116, 233);
+  background-color: rgb(247, 212, 123);
 }
 
 .sidebar {
-  width: 20%;
+  width: 40%;
   float: left;
-  border: solid salmon 5px;
+  border: solid rgb(247, 212, 123) 5px;
   padding: 15px;
   margin-right: 50px;
-  background-color: seagreen;
+  background-color: rgb(202, 111, 230);
   box-sizing: border-box;
-  box-shadow: 10px 5px 5px steelblue;
 }
 
 .date-range {
   color: rgb(55, 55, 55);
   font-size: small;
+}
+
+.container-color {
+  background-color: rgb(158, 207, 145);
+}
+
+.mainpic {
+  float: right;
+  width: 40%;
+  box-sizing: border-box;
+  border: solid rgb(247, 212, 123) 5px;
 }
