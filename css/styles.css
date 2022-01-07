@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Rajdhani:wght@500&family=Righteous&display=swap');
 
 body {
   background-color: rgb(241, 81, 82);
+  font-family: 'Rajdhani';
 }
 
 h1 {
@@ -15,6 +16,8 @@ h1 {
 
 h2 {
   font-family: 'Righteous';
+  text-decoration: underline;
+  text-decoration-color: rgb(30, 85, 92);
   color: rgb(244, 216, 205);
   background-color: rgb(58, 46, 57);
   padding: 10px;
@@ -45,7 +48,7 @@ h2 {
 .mainpic {
   float: right;
   margin: 10px;
-  width: 40%;
+  width: 30%;
   box-sizing: border-box;
   border: solid rgb(237, 177, 131) 5px;
 }
@@ -53,5 +56,9 @@ h2 {
 .sidebarpic {
   width: 100%;
   border: solid rgb(237, 177, 131) 5px;
+}
 
+.card {
+  background-color: rgb(237, 177, 131);
+  margin: 10px;
 }
