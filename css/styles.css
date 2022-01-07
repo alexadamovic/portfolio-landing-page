@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Righteous&display=swap');
 
 body {
   background-color: rgb(241, 81, 82);
@@ -10,6 +10,15 @@ h1 {
   text-align: center;
   color: rgb(58, 46, 57);
   background-color: rgb(237, 177, 131);
+  border: solid rgb(58, 46, 57) 5px;
+}
+
+h2 {
+  font-family: 'Righteous';
+  color: rgb(244, 216, 205);
+  background-color: rgb(58, 46, 57);
+  padding: 10px;
+  border: solid rgb(241, 81, 82) 2px;
 }
 
 .sidebar {
@@ -35,6 +44,7 @@ h1 {
 
 .mainpic {
   float: right;
+  margin: 10px;
   width: 40%;
   box-sizing: border-box;
   border: solid rgb(237, 177, 131) 5px;
