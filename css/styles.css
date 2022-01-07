@@ -47,6 +47,7 @@ h2 {
 
 .mainpic {
   float: right;
+  border-radius: 50%;
   margin: 10px;
   width: 30%;
   box-sizing: border-box;
