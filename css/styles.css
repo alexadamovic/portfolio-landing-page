@@ -57,8 +57,3 @@ h2 {
   box-sizing: border-box;
   border: solid rgb(237, 177, 131) 5px;
 }
-
-.card {
-  background-color: rgb(237, 177, 131);
-  margin: 10px;
-}
