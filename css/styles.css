@@ -5,6 +5,10 @@ body {
   font-family: 'Rajdhani';
 }
 
+p {
+  margin: 10px;
+}
+
 h1 {
   font-family: 'monoton';
   font-size: 6em;
