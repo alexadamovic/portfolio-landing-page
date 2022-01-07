@@ -14,9 +14,8 @@
 
 _This simple webpage will act as the landing page for my programming portfolio at Epicodus. As I continue to program and work on projects, I will update this page as necessary with live links and links to my github repositories._
 
-## Setup/Installation Requirements
+## Link
 
-* _clone repository from https://github.com/alexadamovic/portfolio-landing-page to access code_
 * _open BLANKLINK in browser to access live page_
 
 ## Known Bugs
