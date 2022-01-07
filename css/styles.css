@@ -1,34 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 
+body {
+  background-color: rgb(241, 81, 82);
+}
+
 h1 {
   font-family: 'monoton';
-  font-size: 5em;
-  color: rgb(219, 116, 233);
-  background-color: rgb(247, 212, 123);
+  font-size: 6em;
+  text-align: center;
+  color: rgb(58, 46, 57);
+  background-color: rgb(237, 177, 131);
 }
 
 .sidebar {
+  color: rgb(244, 216, 205);
   width: 40%;
   float: left;
-  border: solid rgb(247, 212, 123) 5px;
+  border: solid rgb(237, 177, 131) 5px;
   padding: 15px;
-  margin-right: 50px;
-  background-color: rgb(202, 111, 230);
+  margin-right: 20px;
+  background-color: rgb(30, 85, 92);
   box-sizing: border-box;
 }
 
 .date-range {
-  color: rgb(55, 55, 55);
+  font-style: italic;
   font-size: small;
 }
 
 .container-color {
-  background-color: rgb(158, 207, 145);
+  background-color: rgb(244, 216, 205);
+  border: solid rgb(237, 177, 131) 5px ;
 }
 
 .mainpic {
   float: right;
   width: 40%;
   box-sizing: border-box;
-  border: solid rgb(247, 212, 123) 5px;
+  border: solid rgb(237, 177, 131) 5px;
+}
+
+.sidebarpic {
+  width: 100%;
+  border: solid rgb(237, 177, 131) 5px;
+
 }
