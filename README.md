@@ -16,7 +16,7 @@ _This simple webpage will act as the landing page for my programming portfolio a
 
 ## Link
 
-* _open BLANKLINK in browser to access live page_
+* _open https://alexadamovic.github.io/portfolio-landing-page/ in browser to access live page_
 
 ## Known Bugs
 
